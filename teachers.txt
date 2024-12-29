@@ -1,0 +1,3 @@
+John,Williams,45,Male,Mathematics,12,60000
+Emily,Brown,38,Female,Physics,8,55000
+Michael,Taylor,50,Male,Chemistry,15,70000
